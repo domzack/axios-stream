@@ -1,0 +1,21 @@
+{
+  "name": "axios-stream",
+  "version": "1.0.0",
+  "description": "Example of Stream for persistance channel using axios/nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git add . && git commit -am 'automatic push' && git push && clear && git status"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://www.github.com/domzack/axios-stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domzack/axios-stream/issues"
+  },
+  "homepage": "https://github.com/domzack/axios-stream#readme"
+}
